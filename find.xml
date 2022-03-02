@@ -13,9 +13,9 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
-    <mask>*.csv</mask>
     <mask>*.xml</mask>
     <mask>di.xml</mask>
     <mask>cron.xml</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
