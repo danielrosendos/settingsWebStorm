@@ -15,8 +15,8 @@
     <mask>di.xml</mask>
     <mask>cron.xml</mask>
     <mask>*.csv</mask>
-    <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>customer_form.xml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
