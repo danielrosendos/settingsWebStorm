@@ -19,5 +19,6 @@
     <mask>customer_form.xml</mask>
     <mask>*.php</mask>
     <mask>*.less</mask>
+    <mask>*.js</mask>
   </component>
 </application>
