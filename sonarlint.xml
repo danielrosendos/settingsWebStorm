@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://dev.sonarqube.digitalhub.com.br" />
+          <option name="name" value="Dh" />
+          <option name="login" value="drosendo" />
+          <password>df91df98dfcfdf92dfe8dfeadfe0dffedfc9dfe7df9edfdbdfe3df85dfecdfe1df89dfe3</password>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
